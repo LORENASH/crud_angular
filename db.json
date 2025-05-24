@@ -1,0 +1,222 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Artesanías"
+    },
+    {
+      "id": "2",
+      "nombre": "Papelería"
+    },
+    {
+      "id": "3",
+      "nombre": "Celulares"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Mate artesanal",
+      "precio": 24,
+      "categoriaId": "2"
+    },
+    {
+      "id": "2",
+      "nombre": "Cuaderno reciclado",
+      "precio": 15,
+      "categoriaId": 2
+    },
+    {
+      "id": "4",
+      "nombre": "My Product 2",
+      "precio": 30,
+      "descripcion": "A description",
+      "categoriaId": 2
+    },
+    {
+      "id": "5",
+      "nombre": "My Product 3",
+      "precio": 40,
+      "descripcion": "A description",
+      "categoriaId": 3
+    },
+    {
+      "id": "6",
+      "nombre": "My Product 4",
+      "precio": 50,
+      "descripcion": "A description",
+      "categoriaId": 1
+    },
+    {
+      "id": "7",
+      "nombre": "My Product 5",
+      "precio": 60,
+      "descripcion": "A description",
+      "categoriaId": 2
+    },
+    {
+      "id": "8",
+      "nombre": "My Product 6",
+      "precio": 70,
+      "descripcion": "A description",
+      "categoriaId": 3
+    },
+    {
+      "id": "9",
+      "nombre": "My Product 7",
+      "precio": 80,
+      "descripcion": "A description",
+      "categoriaId": 1
+    },
+    {
+      "id": "10",
+      "nombre": "My Product 8",
+      "precio": 90,
+      "descripcion": "A description",
+      "categoriaId": 2
+    },
+    {
+      "id": "11",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 2
+    },
+    {
+      "id": "12",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 3
+    },
+    {
+      "id": "13",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "15",
+      "nombre": "My New Product 01",
+      "precio": 181,
+      "descripcion": "A new description Produccion B",
+      "categoriaId": "3"
+    },
+    {
+      "id": "16",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "17",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 2
+    },
+    {
+      "id": "18",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": "2"
+    },
+    {
+      "id": "19",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "20",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "21",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "22",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 2
+    },
+    {
+      "id": "23",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 3
+    },
+    {
+      "id": "24",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "25",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 2
+    },
+    {
+      "id": "26",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 3
+    },
+    {
+      "id": "27",
+      "nombre": "My New Product 01",
+      "precio": 190,
+      "descripcion": "A new description",
+      "categoriaId": 1
+    },
+    {
+      "id": "e957",
+      "nombre": "Lavanda",
+      "precio": 15,
+      "descripcion": "Perfumes de Lavanda Produccion C",
+      "categoriaId": "2"
+    },
+    {
+      "id": "f8ac",
+      "nombre": "juguetes",
+      "precio": 150,
+      "descripcion": "descripcion corts",
+      "categoriaId": "2"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "usuario": "admin",
+      "clave": "1234"
+    },
+    {
+      "id": "2",
+      "usuario": "usuario1",
+      "clave": "1111"
+    },
+    {
+      "id": "3",
+      "usuario": "usuario2",
+      "clave": "2222"
+    }
+  ]
+}

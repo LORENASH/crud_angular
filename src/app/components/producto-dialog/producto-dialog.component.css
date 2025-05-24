@@ -1,0 +1,38 @@
+.full-width {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.dialog-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-top: 8px;
+}
+
+.dialog-title {
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 4px;
+}
+
+.dialog-actions {
+  padding: 8px 24px 16px;
+}
+
+::ng-deep .custom-dialog-container .mat-dialog-container {
+  border-radius: 16px;
+  padding: 24px;
+  background-color: #fefefe;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
